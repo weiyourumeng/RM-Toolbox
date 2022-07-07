@@ -1,0 +1,6 @@
+F:\QT\入梦语音包源码\obj\Debug\入梦工具箱.Form1.resources
+F:\QT\入梦语音包源码\obj\Debug\入梦语音包.Properties.Resources.resources
+F:\QT\入梦语音包源码\obj\Debug\入梦语音包.csproj.GenerateResource.cache
+F:\QT\入梦语音包源码\obj\Debug\入梦语音包.csproj.CoreCompileInputs.cache
+F:\QT\入梦语音包源码\obj\Debug\入梦语音包.exe
+F:\QT\入梦语音包源码\obj\Debug\入梦语音包.pdb
